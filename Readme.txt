@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+Hello!
 
-Theme Name: EstateAgency
-Theme URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This is the website for BeachIV. This is an open source project that allows other students and InterVarsity chapters to use as a template in producing a custom site using GitHub!
+
+#Hack4Missions
